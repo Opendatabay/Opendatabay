@@ -27,8 +27,21 @@ Opendatabay continues to explore new avenues for data acquisition, curation, and
 ## Links
 
 - [Opendatabay.com](https://opendatabay.com)
-- [GitHub](https://github.com/Opendatabay)
+- [Instagram](https://www.instagram.com/opendatabay/)
 - [LinkedIn](https://www.linkedin.com/company/opendatabay)
 - [Facebook](https://www.facebook.com/Opendatabay)
 - [Twitter](https://twitter.com/Open_databay)
 - [YouTube](https://www.youtube.com/@opendatabay)
+- [Reddit](https://www.reddit.com/r/Opendatabay/)
+
+
+## 
+![hm copy](https://github.com/Opendatabay/Opendatabay/assets/38762355/0ab98e1a-f66e-4390-bcdc-d111c2652c82)
+
+ <p>Opendatabay LTD.</p>
+ 
+ <p>Registered Company in England and Wales. 15711573</p>
+
+- [GOV.UK](https://find-and-update.company-information.service.gov.uk/company/15711573)
+ - [Crunchbase](https://www.crunchbase.com/organization/opendatabay)
+
